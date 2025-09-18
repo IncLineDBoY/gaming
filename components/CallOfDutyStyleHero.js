@@ -22,8 +22,8 @@ export default function CallOfDutyStyleHero() {
         {/* Background Image - optimized for all screens */}
         <div className="absolute min-w-full min-h-full object-cover">
           <Image
-            src="/images/anuj.jpg"
-            alt="XLR8 Gaming Team"
+            src="/images/newbg.jpg"
+            alt="XLR8 Gaming Background"
             layout="fill"
             objectFit="cover"
             objectPosition="center center"
